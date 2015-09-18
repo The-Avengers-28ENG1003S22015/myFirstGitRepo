@@ -4,7 +4,7 @@ Name 1:
 <INsERT NAME>
 
 Name 2:
-<INsERT NAME>
+<omg>
 
 Name 3:
 <INsERT NAME>
